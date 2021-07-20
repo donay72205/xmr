@@ -26,11 +26,7 @@
  { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 0 },
  { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 1 },
  { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 2 },
- { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 3 },
- { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 4 },
- { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 5 },
- { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 6 },
-],
+ ],
 
 /*
  * LARGE PAGE SUPPORT
@@ -115,7 +111,6 @@
  */
 "pool_address" : "pool.supportxmr.com:7777",
 "wallet_address" : "8AYpHXJmoj3V2AwhXKEEHxjTjKxk98DEBXWivnmfzDNx6bwUr7akAYw2gf3sAvJ1bd4guuUdReHxNAyh6EWmE6rtGxgBcHc",
-"wallet_address" : "cku298"
 "pool_password" : "x",
 
 /*
